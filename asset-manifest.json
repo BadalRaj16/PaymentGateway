@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BadalRaj16/PaymentGateway.git/static/css/main.db0de2bf.css",
+    "main.js": "/BadalRaj16/PaymentGateway.git/static/js/main.abed00ef.js",
+    "static/media/3.jpg": "/BadalRaj16/PaymentGateway.git/static/media/3.db30ef7364b556958212.jpg",
+    "static/media/education.jpg": "/BadalRaj16/PaymentGateway.git/static/media/education.a941a040d5013591a0ac.jpg",
+    "static/media/distribution.jpg": "/BadalRaj16/PaymentGateway.git/static/media/distribution.b154b909d1e518c5b67c.jpg",
+    "static/media/meals.jpg": "/BadalRaj16/PaymentGateway.git/static/media/meals.969f12b117a6d0fbd38b.jpg",
+    "static/media/4.jpg": "/BadalRaj16/PaymentGateway.git/static/media/4.e5f43a278854bc0eb869.jpg",
+    "static/media/5.jpg": "/BadalRaj16/PaymentGateway.git/static/media/5.97183e6c49467b87e875.jpg",
+    "index.html": "/BadalRaj16/PaymentGateway.git/index.html",
+    "main.db0de2bf.css.map": "/BadalRaj16/PaymentGateway.git/static/css/main.db0de2bf.css.map",
+    "main.abed00ef.js.map": "/BadalRaj16/PaymentGateway.git/static/js/main.abed00ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0de2bf.css",
+    "static/js/main.abed00ef.js"
+  ]
+}
